@@ -19,10 +19,7 @@ public class verkefni5{
 		return lesnarTolur;
 	}
 	
-	//Notkun: randomTolur(y)
-	//Fyrir: y er fylki af af lengd stærra en M
-	//Eftir: Fallið hefur valið M tolur úr fylkinu y. Fallið skilar gildum í fylki. 
-	//		ef y=|x1,x2...xN| þá er ekki til neitt gildi xi=xi þar sem i=1,2...N.
+	//Notkun: randomTolur(y)breytingar ggggg
 	public static int[] randomTolur(int[] lesnarTolur){
 		
 					
